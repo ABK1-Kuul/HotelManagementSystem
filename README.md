@@ -82,9 +82,9 @@ src/main/java/pages/hotelmanagementjava/
 ---
 
 ## 👨‍💻 Author
-**[Your Name / Student ID]**
+**[Abdselam Kedir / 002/26]**
 *Object-Oriented Programming Assignment*
-*Submission Date: May 2026*
+*Submission Date: May17, 2026*
 
 ---
-*Generated with ☕ and Antigravity*
+*Generated with ☕*
